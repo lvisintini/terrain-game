@@ -72,9 +72,9 @@ The movement points cost of making any move is determine by the below table:
 
 | Movement Type             | Good Weather Points                        | Bad Weather Points                           | Example                                                                 |
 |---------------------------|--------------------------------------------|----------------------------------------------|-------------------------------------------------------------------------|
-| SAME LEVEL MOVE           | 1 point per Hex                            | 2 points per Hex                             | Move 1 Hex on the same level<br>Good Weather: 1 MP<br>Bad Weather: 2 MP |
-| MOVE DOWN                 | 1 point per level                          | 2 points per level                           | Move down 2 levels<br>Good Weather: 2 MP<br>Bad Weather: 4 MP           |
-| MOVE UP                   | 1 point per level AND 1 point for going UP | 2 points per level AND 2 points for going UP | Move up 2 levels<br>Good Weather: 3 MP<br>Bad Weather: 6 MP             |
+| SAME LEVEL MOVE           | 1 point per Hex                            | 2 points per Hex                             | Move 1 Hex on the same level<br>![Example for same level move!](/assets/example-same.png)<br>Good Weather: 1 MP<br>Bad Weather: 2 MP |
+| MOVE DOWN                 | 1 point per level                          | 2 points per level                           | Move down 2 levels<br>![Example for down move!](/assets/example-down.png)<br>Good Weather: 2 MP<br>Bad Weather: 4 MP           |
+| MOVE UP                   | 1 point per level AND 1 point for going UP | 2 points per level AND 2 points for going UP | Move up 2 levels<br>![Example for move up!](/assets/example-up.png)<br>Good Weather: 3 MP<br>Bad Weather: 6 MP             |
 
 As you can see, Bad weather **DOUBLES** the movement points cost **REQUIRED** to make any move on the board.
 
