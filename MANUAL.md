@@ -129,9 +129,9 @@ All destinations must be "reachable" without violating **THE ELEVATION RULE** on
 
 If the player choses not to invert a terrain piece or it is not possible to invert any piece, then he/she must rotate a piece instead or forfeit the turn.
 
-> **_Note form the editor:_**
+> **_Editor's Note:_**
 > The intended effect of inverting a terrain piece is not found in any of the recovered materials of the game.
-> The above text is only an interpretation that can be guessed from the fact that the base of the terrain pieces have no pips and the other game rules.
+> The above text is only an interpretation that can be guessed from the other game rules and the fact that the base of the terrain pieces have no pips.
 > However, feel free to come up with your own interpretation.
 
 
@@ -162,8 +162,47 @@ Each corner of the board is designated as a direction numbe, (1-6) Clockwise.
 > 
 > ![Example for green die variant](/assets/example-green-die.svg)
 
+The red die (wheather) and white die (movement) are also used.
 
+Now the three dice designate DIRECTION, WHEATHER and MOVEMENT.
 
+Only one player may occupy a terrain piece at a time and players may NOT send a player to their starting.
+
+The elevation rule  also remains in effect.
+
+A player who rolls doubles with the **RED** and **WHITE DICE MUST ROLL THESE DICE AGAIN** using the same direction as previously rolled.
+
+> **__Editor's Note:_**
+> The intended effect of this rule is not clear in any of the recovered materials of the game.
+> 
+> It could be interpreted as:
+> - Rolling doubles are rewarded by having the player move again for each roll and reroll, albeit always in the same direction OR ...
+> - Double Rolls are ignored and rerolled.
+> Feel free to use any of the interpretations above or to come up with an intepretation of your own.
+
+Players MUST move each turn.
+
+> **__Editor's Note:_**
+> The intended effect of this rule is not clear in any of the recovered materials of the game.
+> 
+> There are many intances were a player may be unable to move even a single terrain piece in the direction prescribed by the green dice roll:
+> - The edge of the board has been reached.
+> - The terrain in that direction may be too steep (see the elevation rule above)
+> - The player would land on another player (opponents cant be bumped back to their starting position in this version of the game.
+> - The player has not enough movement points to move in the prescribed direction.
+> - etc..
+>
+> Presumably this means that the player would lose their turn.
+
+###  Team Play
+
+First team to get all team mates home **WINS!**
+
+It is required for each teammate to follow the lead player and no teammate may get MORE THAN 3 TERRAIN PIECES AWAT from his/her TEAMMATE.
+
+Teammates may pass one another and take the lead, but must remain within 3 HEXES.
+
+Note: NO Sending back to start.
 
 # Credits
 
