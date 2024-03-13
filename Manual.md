@@ -1,4 +1,4 @@
-# The terrain game
+# The Terrain Game
 - Players: 2-6
 - Duration: 60 mins
 
@@ -59,7 +59,7 @@ All hex terrain piece has 3 pips (dimples) which indicate the **EXITS OFF** that
 > **_Example:_**
 > From terrain piece A you must travel to piece B, then to piece C in order to get to piece D (See RED PIPS).
 > From piece D you can get to piece A directly using piece B (SEE BLUE PIPS).
-> ![Example for pip directions!](/assets/example-direction.png)
+> ![Example for pip directions](/assets/example-direction.png)
 
 As stated before, you are able to **ROTATE** terrain piece if you roll **DOUBLES**, which allows you to change the direction of the pits for any terrain piece you like, changing the paths in the terrain and giving you (and your opponents) access too other parts of the board.
 
@@ -73,9 +73,9 @@ The movement points cost of making any move is determine by the below table:
 
 | Movement Type             | Good Weather Points                              | Bad Weather Points                                 | Example                                                                                                                                  |
 |---------------------------|--------------------------------------------------|----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
-| SAME LEVEL MOVE           | 1 point per Hex                                  | 2 points per Hex                                   | **Move 1 Hex on the same level**<br>![Example for same level move!](/assets/example-same.png)<br>Good Weather: 1 MP<br>Bad Weather: 2 MP |
-| MOVE DOWN                 | 1 point per level                                | 2 points per level                                 | **Move down 2 levels**<br>![Example for down move!](/assets/example-down.png)<br>Good Weather: 2 MP<br>Bad Weather: 4 MP                 |
-| MOVE UP                   | 1 point per level<br>AND<br>1 point for going UP | 2 points per level<br>AND<br>2 points for going UP | **Move up 2 levels**<br>![Example for move up!](/assets/example-up.png)<br>Good Weather: 3 MP<br>Bad Weather: 6 MP                       |
+| SAME LEVEL MOVE           | 1 point per Hex                                  | 2 points per Hex                                   | **Move 1 Hex on the same level**<br>![Example for same level move](/assets/example-same.png)<br>Good Weather: 1 MP<br>Bad Weather: 2 MP |
+| MOVE DOWN                 | 1 point per level                                | 2 points per level                                 | **Move down 2 levels**<br>![Example for down move](/assets/example-down.png)<br>Good Weather: 2 MP<br>Bad Weather: 4 MP                 |
+| MOVE UP                   | 1 point per level<br>AND<br>1 point for going UP | 2 points per level<br>AND<br>2 points for going UP | **Move up 2 levels**<br>![Example for move u!](/assets/example-up.png)<br>Good Weather: 3 MP<br>Bad Weather: 6 MP                       |
 
 As you can see, Bad weather **DOUBLES** the movement points cost **REQUIRED** to make any move on the board.
 
@@ -83,9 +83,16 @@ As you can see, Bad weather **DOUBLES** the movement points cost **REQUIRED** to
 
 Each terrain pices has an height defined in levels from 1 to 8.
 
-When moving, a player **CANNOT** go **UP** or **DOWN MORE THAN 3 LEVELS** from the terrain piece they currenly occupied.
+When moving, a player **CANNOT** go **UP** or **DOWN MORE THAN 3 LEVELS** from the terrain piece currenly occupied.
 
 You can use the measuring tool to check the relative "elevation" between to terrain pieces.
+
+> **_Example:_**
+> All the GREEN green arrows show legal moves which follow the pit directions without violating **the elevation rule**
+> The RED arrrow show an example of an ilegal move that violates the **the elevation rule** even if they would have been theoretically allowed by the pip directions.
+> 
+> ![Example for elevation rule](/assets/example-elevation.png)
+
 
 ### No players may ocupy the same hex
 
