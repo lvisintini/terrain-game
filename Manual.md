@@ -56,9 +56,10 @@ As you will see later, Bad weather **DOUBLES** the movement points cost of makin
 
 All hex terrain piece has 3 pips (dimples) which indicate the **EXITS OFF** that piece. It's not allowed to move in any direction other that the ones directed by them.
 
-> **_Example:_** From terrain piece A you must travel to piece B, then to piece C in order to get to piece D (See RED PIPS).
-
-> **_Note:_** from piece D you can get to piece A directly using piece B (SEE BLUE PIPS).
+> **_Example:_**
+> From terrain piece A you must travel to piece B, then to piece C in order to get to piece D (See RED PIPS).
+> From piece D you can get to piece A directly using piece B (SEE BLUE PIPS).
+> ![Example for pip directions!](/assets/example-direction.png)
 
 As stated before, you are able to **ROTATE** terrain piece if you roll **DOUBLES**, which allows you to change the direction of the pits for any terrain piece you like, changing the paths in the terrain and giving you (and your opponents) access too other parts of the board.
 
@@ -111,11 +112,11 @@ If the player choses not to invert a terrain piece or it is not possible to inve
 
 ## Offense/Defense? HINTS?
 
-Constructing terrain with many UP-3 LEVEL paths makes traveling more difficult.
+- Constructing terrain with many UP-3 LEVEL paths makes traveling more difficult.
 
-Also block paths to destinations where pips DO NOT point in the proper direction.
+- Block paths to destinations by manipulating the pieces so that pips DO NOT point in the proper direction.
 
-Placing terrain level changes of MORE THAN 3 LEVELS next to pip exits RESTRICTS travel to the remaining pip exits.
+- Placing terrain level changes of MORE THAN 3 LEVELS next to pip exits RESTRICTS travel to the remaining pip exits.
 
 # Credits
 
