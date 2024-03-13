@@ -2,6 +2,20 @@
 - Players: 2-6
 - Duration: 60 mins
 
+## Game components
+
+| Component            | Detail                                                            | Qty                    |
+|----------------------|-------------------------------------------------------------------|------------------------|
+| Hexagonal game board |                                                                   | 1                      |
+| Elevation tool       |                                                                   | 1                      |
+| White 6-sided die    |                                                                   | 1                      |
+| Red 6-sided die      |                                                                   | 1                      |
+| Green 6-sided die    |                                                                   | 1                      |
+| Player tokens        | 6 different colors                                                | 6                      |
+| Destination tokens   | 3 for each of the player colors                                   | 18                     |
+| Hex pieces           | 4 patterns x 8 levels x 3 copies each                             | 96                     |
+
+
 ## Object of the game
 
 1. Create the 3D terrain game board.
@@ -105,8 +119,6 @@ A player sends another player to the original starting position if the player la
 
 ## Optional Rule
 
-**AGREE BEFORE PLAYING** with this Optional Rule. 
-
 Double 6s permit a player to **INVERT** (turn **UPSIDE-DOWN**) **ANY** terrain piece **NOT** occupied by a player or destination marker -- permanently!
 
 The player may chose to do this instead of rotating a terrain piece.
@@ -120,7 +132,8 @@ If the player choses not to invert a terrain piece or it is not possible to inve
 > **_Note form the editor:_**
 > The intended effect of inverting a terrain piece is not found in any of the recovered materials of the game.
 > The above text is only an interpretation that can be guessed from the fact that the base of the terrain pieces have no pips and the other game rules.
-> However, feel free to come up with your own interpretations.
+> However, feel free to come up with your own interpretation.
+
 
 ## Offense/Defense? HINTS?
 
@@ -129,6 +142,28 @@ If the player choses not to invert a terrain piece or it is not possible to inve
 - Block paths to destinations by manipulating the pieces so that pips DO NOT point in the proper direction.
 
 - Placing terrain level changes of MORE THAN 3 LEVELS next to pip exits RESTRICTS travel to the remaining pip exits.
+
+## Game Variants
+
+### LOST
+
+**LOST** is a form of the terrain game where ALL players start from the center of the board.
+The object of the game is to reach **ANY PERIMETER PIECE** (any terrain piece at the edge of the board).
+The first player to do so **WINS**
+
+###  GREEN DIE
+
+In this version, the pips do not control the player's direction of movement. The **GREEN** die does that.
+
+Each corner of the board is designated as a direction numbe, (1-6) Clockwise.
+
+> **_Example:_**
+> If the green die was 2, then the movement for that turn would be in a straight line parallel to direction 2.
+> 
+> ![Example for green die variant](/assets/example-green-die.svg)
+
+
+
 
 # Credits
 
