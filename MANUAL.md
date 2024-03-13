@@ -11,9 +11,14 @@
 
 Place the board on a playing surface and the reamining game components within easy reach of all players.
 
-Players determine their own starting positions at any of the six corners of the board (marked hexagons; see picture bellow).
+Players determine their own starting positions at any of the six corners of the board (See marked hex positions below).
 
-Take note of the position of the terrain pieces to the notched edge of the board in the figure at the bottom. (see picture bellow)
+![Board layout](/assets/board-layout.svg)
+
+> Take note of the position of the terrain pieces to the notched edge of the board in the figure at the bottom.
+> The terrain piece's corner should not be touching the board's corner.
+> 
+> ![Hex piece orientation](/assets/hex-piece-orientation.svg)
 
 ## Creating the terrain
 
