@@ -1,5 +1,7 @@
 # Tabletop simulator config
 
+https://steamcommunity.com/sharedfiles/filedetails/?id=3183990435
+
 For the workshop to work seamlessly we need to do a couple of things.
 
 1. In freecad:
